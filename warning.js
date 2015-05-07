@@ -1,7 +1,7 @@
-var msg1 = "您所使用的Internet Explorer版本太旧";
+var msg1 = "您所使用的Internet Explorer版本过低";
 var msg2 = "为保证浏览质量，我们建议您升级至最新版的IE浏览器，或者安装Google Chrome，Firefox等其他现代浏览器";
 var msg3 = "点击图标跳转至相应的下载页面";
-var br1 = "Internet Explorer 9+";
+var br1 = "Internet Explorer 10+";
 var br2 = "Firefox 最新版";
 var br3 = "Safari 最新版";
 var br4 = "Opera 最新版";
